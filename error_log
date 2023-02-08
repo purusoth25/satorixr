@@ -1,0 +1,2 @@
+[10-Jan-2022 09:32:09 UTC] PHP Notice:  Undefined index: action in /home/m72rq41vebx6/public_html/style2.php on line 175
+[11-Jan-2022 07:12:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/m72rq41vebx6/public_html/style2.php on line 128
